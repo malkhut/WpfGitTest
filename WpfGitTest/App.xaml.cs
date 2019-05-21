@@ -12,8 +12,5 @@ namespace WpfGitTest
     /// </summary>
     public partial class App : Application
     {
-        int luca = 0;
-
-        long lucal = 0;
     }
 }
