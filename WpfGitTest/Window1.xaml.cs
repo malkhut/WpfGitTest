@@ -19,8 +19,6 @@ namespace WpfGitTest
     /// </summary>
     public partial class Window1 : Window
     {
-        int i = 0;
-
         public Window1()
         {
             InitializeComponent();
