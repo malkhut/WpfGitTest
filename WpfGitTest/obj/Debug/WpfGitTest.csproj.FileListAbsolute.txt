@@ -1,0 +1,12 @@
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\bin\Debug\WpfGitTest.exe
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\bin\Debug\WpfGitTest.pdb
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\Window1.baml
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\Window1.g.cs
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\App.g.cs
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\WpfGitTest_MarkupCompile.cache
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\WpfGitTest.g.resources
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\WpfGitTest.Properties.Resources.resources
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\WpfGitTest.csproj.GenerateResource.Cache
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\WpfGitTest.exe
+C:\Users\l.stefanelli-cons\Documents\Source\WpfGit\WpfGitTest\obj\Debug\WpfGitTest.pdb
