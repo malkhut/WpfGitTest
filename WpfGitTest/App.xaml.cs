@@ -12,6 +12,5 @@ namespace WpfGitTest
     /// </summary>
     public partial class App : Application
     {
-        var luca = "";
     }
 }
